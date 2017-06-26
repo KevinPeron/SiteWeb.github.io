@@ -1,0 +1,20 @@
+#slide1, #slide2, #slide3 {
+    height: 1000px;
+    padding-top: 100px;
+}
+
+#slide1 {
+   background: url(../images/picto3.jpeg) center 0 no-repeat fixed;
+}
+
+#slide2 {
+   background: url(../images/test.jpg) center 0 no-repeat fixed;
+}
+
+#slide3 {
+   background: url(../images/parcours.jpg) center 0 no-repeat fixed;
+}
+
+.slide_inside {
+	text-align: center;
+}
